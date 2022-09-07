@@ -1,0 +1,48 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+.navstyling{
+
+border: 1px double #2D2D34;
+background-color: #F1E4E8;
+border-radius: 25px;
+}
+.homestyling{
+  border:1px solid rgb(6, 132, 118);
+  min-height:330px;
+  border-radius:35px;
+  width:92%;
+  margin-top: 20px;;
+}
+img{
+  border: 2px solid #2D2D34;
+}
+h5{
+  color:#2D2D34;
+}
+.githubstyle{
+background-color:#F1E4E8;
+border-radius:22px;
+border:1px solid #2D2D34;
+}
+.githubstyle > a{
+  color:#2D2D34;
+  text-decoration: none;
+}
+.linkedinstyle{
+background-color: #F1E4E8;
+border:1px solid #2D2D34;
+border-radius:22px;
+}
+.linkedinstyle > a{
+  text-decoration: none;
+  color:#2D2D34;
+}
+.footer{
+  margin-top: 25px;
+  background-color: #2D2D34;
+  height:130px;
+  border-radius: 22px;
+}
